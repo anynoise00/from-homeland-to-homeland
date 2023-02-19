@@ -13,3 +13,10 @@
     row-gap: 46px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .places {
+    padding: 62px 0 64px;
+    row-gap: 37px;
+  }
+}

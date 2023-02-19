@@ -17,3 +17,12 @@
     grid-template-rows: repeat(4, 1fr);
   }
 }
+
+@media screen and (max-width: 767px) {
+  .photo-grid {
+    width: 288px;
+    padding-top: 38px;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(8, 1fr);
+  }
+}

@@ -5,18 +5,25 @@
   justify-content: center;
   position: relative;
   max-width: 1184px;
-  height: 740px;
   width: 100%;
+  min-height: 740px;
   margin: auto;
   text-align: center;
   background-image: url("../../images/cover-background.jpg");
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
   overflow: hidden;
 }
 
 @media screen and (max-width: 1200px) {
   .cover {
-    height: 746px;
+    min-height: 746px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover {
+    min-height: 254px;
   }
 }

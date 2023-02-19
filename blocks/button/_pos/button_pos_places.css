@@ -8,4 +8,15 @@
     left: 0;
     width: 355px;
     box-sizing: border-box;
-  }}
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .button_pos_places {
+    width: 288px;
+    height: 48px;
+    font-size: 14px;
+    padding: 15.5px 20px;
+    margin: auto;
+  } 
+}
