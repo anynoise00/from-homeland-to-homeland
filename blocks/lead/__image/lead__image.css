@@ -2,3 +2,9 @@
   padding-top: 64px;
   width: 100%;
 }
+
+@media screen and (max-width: 1200px) {
+  .lead__image {
+    padding-top: 69px;
+  }
+}

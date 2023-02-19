@@ -1,6 +1,11 @@
 .button_pos_places {
   grid-area: button;
-  text-align: start;
-  text-anchor: middle;
-  vertical-align: middle;
 }
+
+@media screen and (max-width: 1200px) {
+  .button_pos_places {
+    position: relative;
+    left: 0;
+    width: 355px;
+    box-sizing: border-box;
+  }}

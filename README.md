@@ -6,4 +6,4 @@ Projeto criado para praticar a criação de sites responsivos e adaptáveis, par
 
 ## Metas
 * Link para o GitHub Pages
-* Fazer as versões do site para telas menores e smarthphones
+* Fazer as versões do site para smarthphones
