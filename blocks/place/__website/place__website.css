@@ -1,0 +1,7 @@
+.place__website {
+  align-self: flex-end;
+  grid-area: employees;
+  font-size: 18px;
+  line-height: 1.63;
+  font-weight: 400;
+}

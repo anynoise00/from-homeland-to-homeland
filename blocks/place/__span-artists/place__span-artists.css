@@ -1,0 +1,7 @@
+.place__span-artists {
+  display: block;
+  color: #AAA;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 1.63;
+}

@@ -1,0 +1,6 @@
+.button_pos_places {
+  grid-area: button;
+  text-align: start;
+  text-anchor: middle;
+  vertical-align: middle;
+}

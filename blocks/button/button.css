@@ -1,0 +1,21 @@
+.button {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  background-color: #0278FE;
+  color: #FFF;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 13px 20px;
+  border-radius: 4px;
+  z-index: 3;
+  transition: background-color .2s;
+}
+
+.button:hover {
+  background-color: #0063D2;
+}
