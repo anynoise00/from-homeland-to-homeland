@@ -1,9 +1,9 @@
-.button_pos_places {
+.place__button {
   grid-area: button;
 }
 
 @media screen and (max-width: 1200px) {
-  .button_pos_places {
+  .place__button {
     position: relative;
     left: 0;
     width: 355px;
@@ -12,7 +12,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .button_pos_places {
+  .place__button {
     width: 288px;
     height: 48px;
     font-size: 14px;
