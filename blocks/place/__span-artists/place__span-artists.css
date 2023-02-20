@@ -2,12 +2,7 @@
   display: block;
   color: #AAA;
   text-transform: uppercase;
-  font-size: 14px;
-  line-height: 1.63;
-}
-
-@media screen and (max-width: 1200px) {
-  .place__span-artists {
-    font-size: 12px;
-  }
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: .12em;
 }

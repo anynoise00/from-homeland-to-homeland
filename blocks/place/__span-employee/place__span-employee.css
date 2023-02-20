@@ -1,3 +1,7 @@
 .place__span-employee {
   display: block;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  padding-top: 8px;
 }

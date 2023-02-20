@@ -1,6 +1,6 @@
-@import url("../fonts/Inter/inter.css");
-
 @import url("../styles/normalize.css");
+
+@import url("../fonts/Inter/inter.css");
 
 @import url("../blocks/page/page.css");
 
@@ -36,8 +36,6 @@
 @import url("../blocks/place/__button/place__button.css");
 @import url("../blocks/place/__paragraphs/place__paragraphs.css");
 @import url("../blocks/place/__text/place__text.css");
-
-
 
 @import url("../blocks/cover/cover.css");
 @import url("../blocks/cover/__container/cover__container.css");

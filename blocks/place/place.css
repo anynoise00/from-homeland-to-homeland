@@ -1,17 +1,18 @@
 .place {
   display: grid;
-  grid-template-rows: repeat(2, auto) 1fr;
+  grid-template-rows: auto 460px 1fr;
   grid-template-columns: repeat(2, 1fr);
   grid-template-areas: 
   "title employees"
   "image paragraphs"
   "button paragraphs";
-  gap: 48px 40px;
+  gap: 48px 16px;
 }
 
 @media screen and (max-width: 1200px) {
   .place {
-    grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
+    grid-template-rows: auto 340px 1fr;
+    grid-template-columns: 1fr minmax(352px, 1fr);
     gap: 46px 28px;
   }
 }
