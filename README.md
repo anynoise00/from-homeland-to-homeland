@@ -1,9 +1,9 @@
 # De Pátria para Pátria
 
-Uma página interativa onde os usuários podem adicionar, remover e curtir fotos.
+Uma página que mostra as cidades de origem de alguns funcionários da TripleTen.
 
-Esta página interativa permite que os usuários adicionem, removam e curtam fotos, além de poder atualizar suas informações de perfil. Ela foi criada para praticar a utilização de módulos e classes JavaScript, validação de formulários, a integração da página com um servidor e a utilização do webpack para criar um pacote de arquivos e acelerar o carregamento da página. Sua conclusão levou cerca de dois meses.
+Este projeto de página única que mostra as diversas cidades dos funcionários da TripleTen foi criado para praticar a criação de sites responsivos e adaptáveis. Ele foi feito com o auxílio de um design disponibilizado no Figma e também serviu para praticar a utilização da metodologia BEM para a estruturação do projeto. Sua conclusão levou aproximadamente duas semanas.
 
-Tecnologias utilizadas: JavaScript, DOM, integração com o servidor, HTML, CSS, web design adaptativo, metodologia BEM, webpack e Figma.
+Tecnologias utilizadas: JavaScript, HTML, CSS, web design adaptativo, metodologia BEM e Figma.
 
 Você pode checar o projeto no seguinte [link](https://anynoise00.github.io/web_project_3_ptbr/).
