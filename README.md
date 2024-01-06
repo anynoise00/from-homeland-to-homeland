@@ -6,4 +6,4 @@ Este projeto de página única que mostra as diversas cidades dos funcionários 
 
 Tecnologias utilizadas: JavaScript, HTML, CSS, web design adaptativo, metodologia BEM e Figma.
 
-Você pode checar o projeto no seguinte [link](https://anynoise00.github.io/web_project_3_ptbr/).
+Você pode checar o projeto no seguinte [link](https://anynoise00.github.io/from-homeland-to-homeland/).
